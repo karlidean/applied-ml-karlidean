@@ -46,3 +46,7 @@ uv run python --version
 Followed instructions in the README.md of docs/project1 by Dr. Case.
 - Followed path to complete Project 1 in notebooks/project1/ml01.ipynb
 - No issues were presented, followed using example data as directed.
+- Tested notebook with following code and submitted.
+```shell
+uv run python notebooks/project01/ml01.py
+```
