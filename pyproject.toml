@@ -33,10 +33,10 @@ dependencies = [ # fmt: off
 ]  # fmt: on
 
 [project.urls]
-"Bug Tracker" = "https://github.com/denisecase/applied-ml-template/issues"
-Documentation = "https://denisecase.github.io/applied-ml-template/"
-Homepage = "https://github.com/denisecase/applied-ml-template"
-Repository = "https://github.com/denisecase/applied-ml-template"
+"Bug Tracker" = "https://github.com/karlidean/applied-ml-karlidean/issues"
+Documentation = "https://karlidean.github.io/applied-ml-karlidean/"
+Homepage = "https://github.com/karlidean/applied-ml-karlidean"
+Repository = "https://github.com/karlidean/applied-ml-karlidean"
 
 [project.optional-dependencies]
 dev = [
