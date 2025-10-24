@@ -6,11 +6,11 @@
 # TODO: Update site_description
 # TODO: Update site_author
 
-site_name: Applied ML Project
-site_url: https://denisecase.github.io/applied-ml-template/
-repo_url: https://github.com/denisecase/applied-ml-template
-site_description: Professional applied ML project
-site_author: Denise Case
+site_name: 44-670 - Applied Machine Learning Repo
+site_url: https://karlidean.github.io/applied-ml-karlidean/
+repo_url: https://github.com/karlidean/applied-ml-karlidean
+site_description: Repo for weekly projects in Course 44-670 at NWMSU
+site_author: Karli Dean
 docs_dir: docs
 site_dir: site
 
