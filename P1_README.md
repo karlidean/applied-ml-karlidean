@@ -22,8 +22,25 @@ git clone MYREPOHTML
 Followed instructions in the SET_UP_PROJECT.md by Dr. Case.
 - No issues presented.
 ### Workflow Followed:
-1. Personalized pyproject and mkdocs files
-2. Add - Commit - Push
+1. Used following code to set up .venv and dependencies:
+```shell
+# 1. Create an isolated virtual environment
+uv venv
+
+# 2. Pin a specific Python version (3.12 recommended)
+uv python pin 3.12
+
+# 3. Install all dependencies, including optional dev/docs tools
+uv sync --extra dev --extra docs --upgrade
+
+# 4. Enable pre-commit checks so they run automatically on each commit
+uv run pre-commit install
+
+# 5. Verify the Python version (should show 3.12.x)
+uv run python --version
+```
+2. Personalized pyproject and mkdocs files
+3. Add - Commit - Push
 
 ## ML Project 1
 Followed instructions in the README.md of docs/project1 by Dr. Case.
