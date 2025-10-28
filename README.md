@@ -62,13 +62,6 @@ uv run python --version
 ```shell
 .\.venv\Scripts\activate
 ```
-
-**macOS / Linux / WSL:**
-
-```shell
-source .venv/bin/activate
-```
-
 ---
 
 ## WORKFLOW 3. Daily Workflow
