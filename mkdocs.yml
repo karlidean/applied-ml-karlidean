@@ -4,8 +4,8 @@
 
 
 site_name: Professional Analytics Project
-site_url: https://karlidean.github.io/applied-ml-karlidean2/
-repo_url: https://github.com/karlidean/applied-ml-karlidean2
+site_url: https://karlidean.github.io/applied-ml-karlidean/
+repo_url: https://github.com/karlidean/applied-ml-karlidean
 site_description: Professional Python Project Site from Applied Machine Learning at Northwest Missouri State University.
 site_author: Karli Dean
 docs_dir: docs
