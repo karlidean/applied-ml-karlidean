@@ -1,16 +1,13 @@
 # mkdocs.yml
 # Configuration file for MkDocs (Automated project documentation generator)
 
-# TODO: Change denisecase to your GitHub username (use CTRL F to find all instances)
-# TODO: Change pro-analytics-02-starter to your repository name (use CTRL F to find all instances)
-# TODO: Update site_description
-# TODO: Update site_author
+
 
 site_name: Professional Analytics Project
-site_url: https://denisecase.github.io/pro-analytics-02-starter/
-repo_url: https://github.com/denisecase/pro-analytics-02-starter
-site_description: Professional Python project demonstrating industry best practices
-site_author: Denise Case
+site_url: https://karlidean.github.io/applied-ml-karlidean2/
+repo_url: https://github.com/karlidean/applied-ml-karlidean2
+site_description: Professional Python Project Site from Applied Machine Learning at Northwest Missouri State University.
+site_author: Karli Dean
 docs_dir: docs
 site_dir: site
 
