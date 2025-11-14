@@ -1,4 +1,5 @@
 ## Imports
+```shell
 import seaborn as sns
 import pandas as pd
 import numpy as np
@@ -8,13 +9,15 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression, Ridge, ElasticNet
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+```
 
 
 ## Section 1 - Import and Inspect the Data
+```shell
 # Load Titanic dataset from seaborn and verify
 titanic = sns.load_dataset("titanic")
 titanic.head()
-
+```
 
 ## Section 2 - Data Exploration and Preparation
 ```shell
