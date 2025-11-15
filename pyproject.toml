@@ -22,12 +22,13 @@ requires-python = ">=3.12"
 version = "0.0.1"
 
 dependencies = [ # fmt: off
-  "loguru",      # Better than print() - practice production logging with levels
-  "matplotlib",  # Industry standard plotting
-  "pandas",      # THE data manipulation tool in analytics
-  "seaborn",     # Statistical charts built on matplotlib
-  "ipython",     # Enhanced Python shell (needed for notebooks)
-  "ipykernel",   # Jupyter kernel for notebooks
+  "loguru", # Better than print() - practice production logging with levels
+  "matplotlib", # Industry standard plotting
+  "pandas", # THE data manipulation tool in analytics
+  "seaborn", # Statistical charts built on matplotlib
+  "ipython", # Enhanced Python shell (needed for notebooks)
+  "ipykernel", # Jupyter kernel for notebooks
+  "scikit-learn>=1.7.2",
 ]  # fmt: on
 
 [project.urls]
