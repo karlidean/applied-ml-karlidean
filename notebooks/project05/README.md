@@ -19,3 +19,4 @@ applied-ml-karlidean2/notebooks/project05
 2. Downloaded CSV from link per my professor.
    1. Called `winequality-red.csv`
    2. Implemented into folder `applied-ml-karlidean2/notebooks/project05`
+3. Completed MathWork/Codework for all pieces of P5
