@@ -12,3 +12,7 @@ git pull
 applied-ml-karlidean2/notebooks/project05
 ```
 4. Implemented `README.md` and `ensemble-karlidean.ipynb` in this folder
+5. Ran pre-project checks from root `README.md`
+
+### 2. Completing the Jupyter Notebook
+1. Laid out outline and implemented imports.
