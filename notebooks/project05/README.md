@@ -16,3 +16,6 @@ applied-ml-karlidean2/notebooks/project05
 
 ### 2. Completing the Jupyter Notebook
 1. Laid out outline and implemented imports.
+2. Downloaded CSV from link per my professor.
+   1. Called `winequality-red.csv`
+   2. Implemented into folder `applied-ml-karlidean2/notebooks/project05`
