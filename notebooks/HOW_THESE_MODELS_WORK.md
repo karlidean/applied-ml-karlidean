@@ -9,6 +9,7 @@ You can find this model [here](https://github.com/karlidean/applied-ml-karlidean
   - The owner's median income (`MedInc`)
   - The average number of rooms in a home (`AveRooms`)
 ## Model 2: Data - Inspect, Explore, Split, & Engage
+You can find this model [here](https://github.com/karlidean/applied-ml-karlidean/blob/main/notebooks/project02/ml02_karlidean.ipynb)!
 - Utilized Seaborn package `Titanic` data set to illustrate stratification of the data
 - Used visualization techniques from the Seaborn package, including histograms, scatterplots, and countplots
 - Engineered features by changing alphabetic features to digits and creating a new field (called `family_size`)
