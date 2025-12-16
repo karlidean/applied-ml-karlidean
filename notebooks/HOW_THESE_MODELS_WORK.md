@@ -8,3 +8,13 @@ You can find this model [here](https://github.com/karlidean/applied-ml-karlidean
 - Predicted the **median house price** based on selected home features:
   - The owner's median income (`MedInc`)
   - The average number of rooms in a home (`AveRooms`)
+## Model 2: Data - Inspect, Explore, Split, & Engage
+- Utilized Seaborn package `Titanic` data set to illustrate stratification of the data
+- Used visualization techniques from the Seaborn package, including histograms, scatterplots, and countplots
+- Engineered features by changing alphabetic features to digits and creating a new field (called `family_size`)
+- Split and trained my data using `train_test_split()` and `StratifiedShuffleSplit()`
+- Evaluated the survival rates of Titanic passengers of each class in each split portion of data
+  - Training of `train_test_split()`
+  - Testing of `train_test_split()`
+  - Training of `StratifiedShuffleSplit()`
+  - Testing of `StratifiedShuffleSplit()`
