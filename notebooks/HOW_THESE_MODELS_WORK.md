@@ -6,5 +6,5 @@ You can find this model [here](link)!\
 - Trained a model using `train_test_split()`\
 - Evaluated the model using R2, RMSE, and MAE scores\
 - Predicts the MEDIAN price based on certain home features. My features selected were as follows:
--     The owner's median income (MedInc)
--     The average number of rooms in a home (AveRooms)
+-   The owner's median income (MedInc)
+-   The average number of rooms in a home (AveRooms)
