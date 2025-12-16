@@ -22,12 +22,25 @@ You can find this model [here](https://github.com/karlidean/applied-ml-karlidean
 - Used visualization techniques from the Seaborn package, including histograms, scatterplots, and countplots
 - Engineered features by changing alphabetic features to digits and creating a new field (called `family_size`)
 - Split and trained my data using `train_test_split()` and `StratifiedShuffleSplit()`
-- Evaluated the survival rates of Titanic passengers of each class in each split portion of data
-  - Training of `train_test_split()`
-  - Testing of `train_test_split()`
-  - Training of `StratifiedShuffleSplit()`
-  - Testing of `StratifiedShuffleSplit()`
+
 ### Results
+Evaluated the survival rates of Titanic passengers of each class in each split portion of data
+- Training of `train_test_split()`
+  - First Class Survival Rate:
+  - Second Class Survival Rate:
+  - Third Class Survival Rate:
+- Testing of `train_test_split()`
+  - First Class Survival Rate:
+  - Second Class Survival Rate:
+  - Third Class Survival Rate:
+- Training of `StratifiedShuffleSplit()`
+  - First Class Survival Rate:
+  - Second Class Survival Rate:
+  - Third Class Survival Rate:
+- Testing of `StratifiedShuffleSplit()`
+  - First Class Survival Rate:
+  - Second Class Survival Rate:
+  - Third Class Survival Rate:
 
 ## Model 3: Building Classifiers
 You can find this model [here](https://github.com/karlidean/applied-ml-karlidean/blob/main/notebooks/project03/ml03_karlidean.ipynb)!
