@@ -10,7 +10,10 @@ You can find this model [here](https://github.com/karlidean/applied-ml-karlidean
 - Predicted the **median house price** based on selected home features:
   - The owner's median income (`MedInc`)
   - The average number of rooms in a home (`AveRooms`)
-### Results
+### Results of Test Data
+R2: 0.46
+RMSE: 0.84
+MAE: 0.62
 
 ## Model 2: Data - Inspect, Explore, Split, & Engage
 You can find this model [here](https://github.com/karlidean/applied-ml-karlidean/blob/main/notebooks/project02/ml02_karlidean.ipynb)!
